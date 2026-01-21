@@ -115,3 +115,4 @@ GROUP BY age_group
 ORDER BY total_revenue desc;
 GROUP BY subscription_status;
 
+
