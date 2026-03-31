@@ -1,5 +1,7 @@
 # Customer Analytics Dashboard | Power BI Project #
 
+<img width="1428" height="773" alt="image" src="https://github.com/user-attachments/assets/b5cdc1d3-257d-4ccf-8757-1292801eabd2" />
+
 This repository contains an end-to-end data analytics project focused on analyzing customer data and building an interactive Power BI dashboard.
 The project demonstrates the complete analytics workflow — from data cleaning and analysis to visual storytelling and business insights.
 
